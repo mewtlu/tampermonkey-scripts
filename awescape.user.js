@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  Allows toggling the AWS web interface menu with the escape key.
 // @author       Luke Roberts <luke@mewt.eu>
-// @match        https://console.aws.amazon.com/*
+// @match        https://*.aws.amazon.com/*
 // @grant        none
 // ==/UserScript==
 
